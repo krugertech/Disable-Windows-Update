@@ -1,5 +1,5 @@
 @echo off
-echo Stopping Windows Service...
+echo Stopping Service...
 echo ###################################################
 NET Stop "Disable Windows Update"
 echo ###################################################

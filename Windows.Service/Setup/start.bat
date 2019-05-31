@@ -1,5 +1,5 @@
 @echo off
-echo Starting Windows Service...
+echo Starting Service...
 echo ###################################################
 NET Start "Disable Windows Update"
 echo ###################################################

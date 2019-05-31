@@ -1,0 +1,2 @@
+﻿Service management requires elevated permissions.
+Run these batch files as administrator. 
