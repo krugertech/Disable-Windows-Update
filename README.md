@@ -1,2 +1,2 @@
-# Disable-Windows_Update
-A service which ensures windows update is stopped and disabled.
+# Disable Windows Update
+A service which ensures windows update is always stopped and disabled.
