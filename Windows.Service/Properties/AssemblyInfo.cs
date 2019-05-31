@@ -9,8 +9,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("A service that will always stop and disable windows update.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("KrugerTech")]
-[assembly: AssemblyProduct("QBIC.Windows.Service")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyProduct("")]
+[assembly: AssemblyCopyright("Copyright © 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
