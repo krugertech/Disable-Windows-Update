@@ -8,7 +8,7 @@ Often Win10 updates fail leaving computers in a broken state requiring several m
 # How will this impact me?
 This service will constantly disable Windows Update from the moment you install it. 
 This means that Updates will not be downloaded or installed on your computer.
-Included is a small control application for turning Updates back on when you need to perform updates or download content from the Microsoft Store, and then permanently turning them off again.
+Included is a small control application allowing you to temporarily turn Updates back on for when you need to perform updates or download content from the Microsoft Store.
 
 # Licensing
 Free Software under the GPL License
