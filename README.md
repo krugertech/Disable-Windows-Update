@@ -6,7 +6,7 @@ Windows 10 forces you to continually update even when you disable the Windows Up
 Often Win10 updates fail leaving computers in a broken state requiring several man hours to repair. This application allows you to turn off the updates until you decide to go ahead with them.
 
 # Download
- [Setup Msi](https://github.com/krugertech/Disable-Windows-Update/blob/master/Binaries/DisableWindowsUpdate.Installer.v1.msi)
+ [Setup v1.0.0 Msi](https://github.com/krugertech/Disable-Windows-Update/blob/master/Binaries/DisableWindowsUpdate.Installer.v1.msi)
 
 # How will this impact me?
 This service will constantly disable Windows Update from the moment you install it. 
