@@ -6,9 +6,9 @@ Windows 10 forces you to continually update even when you disable the Windows Up
 Often Win10 updates fail leaving computers in a broken state requiring several man hours to repair. This application allows you to turn off the updates until you decide to go ahead with them.
 
 # How will this impact me?
-This service will constantly disable Windows Update from the moment you install or boot your computer. 
-This means that Updates will not be installed and that other Windows Features such as the Microsoft Store will have limited usability.
-Included is a small control application for permananetly turning Updates back on and permanently turning them off.
+This service will constantly disable Windows Update from the moment you install it. 
+This means that Updates will not be downloaded or installed on your computer.
+Included is a small control application for turning Updates back on when you need to perform updates or download content from the Microsoft Store, and then permanently turning them off again.
 
 # Licensing
 Free Software under the GPL License
