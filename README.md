@@ -1,5 +1,5 @@
 # About
-This window service will monitors Windows Update every few seconds to ensure it is stopped and disabled. 
+This window service monitors Windows Update every few seconds to ensure it is stopped and disabled. 
 
 # Control back into your hands
 Windows 10 forces you to continually update even when you disable the Windows Update service.
